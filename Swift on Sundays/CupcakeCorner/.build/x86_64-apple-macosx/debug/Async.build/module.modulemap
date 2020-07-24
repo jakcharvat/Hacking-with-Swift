@@ -1,0 +1,4 @@
+module Async {
+    header "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Async.build/Async-Swift.h"
+    requires objc
+}

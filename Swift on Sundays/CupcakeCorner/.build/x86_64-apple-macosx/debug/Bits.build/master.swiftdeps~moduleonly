@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "29a9b0a3a2f6efcca6df9c5db0f76b4b"
+build_time: [1590747253, 903953000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/BitsError.swift": [1590747226, 265686877]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1590747226, 265970512]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1590747226, 266219196]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1590747226, 266541936]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1590747226, 266819559]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1590747226, 267041147]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1590747226, 267366376]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1590747226, 267616397]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Bytes.swift": [1590747226, 267837606]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1590747226, 268064014]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1590747226, 268317252]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1590747226, 268519395]

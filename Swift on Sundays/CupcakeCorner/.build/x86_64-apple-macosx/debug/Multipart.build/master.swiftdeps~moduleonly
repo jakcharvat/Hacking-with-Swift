@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "ae80e184b1dd435fad4c492d00a94b85"
+build_time: [1590747261, 613689000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1590747223, 275672116]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1590747223, 275976081]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1590747223, 276178363]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1590747223, 276357978]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1590747223, 276577979]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1590747223, 276735930]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1590747223, 276921712]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1590747223, 277160416]

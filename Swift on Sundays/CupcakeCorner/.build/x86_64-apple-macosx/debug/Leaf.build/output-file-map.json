@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/master.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Parser/Byte+Leaf.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/Byte+Leaf.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/Byte+Leaf.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/Byte+Leaf~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/Byte+Leaf.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Parser/LeafParser.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/LeafParser.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/LeafParser.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/LeafParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Parser/LeafParser.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Renderer/LeafRenderer.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Renderer/LeafRenderer.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Renderer/LeafRenderer.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Renderer/LeafRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Renderer/LeafRenderer.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafConfig.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafConfig.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafConfig.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafConfig.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafProvider.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafProvider.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafProvider.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafProvider.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafTagConfig.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafTagConfig.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafTagConfig.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafTagConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Service/LeafTagConfig.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Utilities/Data.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Data.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Data.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Data~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Data.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Utilities/Exports.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Exports.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/Utilities/Exports.swiftdeps"
+  }
+}

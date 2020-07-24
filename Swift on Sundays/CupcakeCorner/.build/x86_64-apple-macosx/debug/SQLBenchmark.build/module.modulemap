@@ -1,0 +1,4 @@
+module SQLBenchmark {
+    header "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/SQLBenchmark.build/SQLBenchmark-Swift.h"
+    requires objc
+}

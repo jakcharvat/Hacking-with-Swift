@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "bf03091c04a9719e40235ca468c2fcd3"
+build_time: [1590747261, 615641000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/BCrypt/BCryptDigest.swift": [1590747227, 83082154]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1590747227, 83362005]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1590747227, 83524393]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/Cipher.swift": [1590747227, 83699100]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1590747227, 83873418]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1590747227, 84019653]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1590747227, 84237575]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Digest/Digest.swift": [1590747227, 84505486]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Digest/DigestAlgorithm.swift": [1590747227, 84659291]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/MAC/HMAC.swift": [1590747227, 84929678]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/MAC/OTP.swift": [1590747227, 85136862]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/RSA/RSA.swift": [1590747227, 85441788]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/RSA/RSAKey.swift": [1590747227, 85617771]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/RSA/RSAPadding.swift": [1590747227, 85776470]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Random/CryptoRandom.swift": [1590747227, 86003476]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/Base32.swift": [1590747227, 86216604]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/CryptoError.swift": [1590747227, 86368710]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/Deprecated.swift": [1590747227, 86544547]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/Exports.swift": [1590747227, 86690634]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CollectionManager.performInternalDrag(with:to:):CollectionManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewController?.photos.map(\.lastPathComponent)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "5ded9582ba649950e8a1aa8ec3ec5cda"
+build_time: [1590747249, 158625000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1590747224, 581163492]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1590747224, 581445889]

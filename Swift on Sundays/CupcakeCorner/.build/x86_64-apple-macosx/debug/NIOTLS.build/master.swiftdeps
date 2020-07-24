@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "e3e2fa0249b49661b5d7c2f5c6c0e9c1"
+build_time: [1590747253, 902973000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1590747224, 587046330]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1590747224, 587519603]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1590747224, 587833159]

@@ -1,0 +1,4 @@
+module HTTP {
+    header "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/HTTP.build/HTTP-Swift.h"
+    requires objc
+}

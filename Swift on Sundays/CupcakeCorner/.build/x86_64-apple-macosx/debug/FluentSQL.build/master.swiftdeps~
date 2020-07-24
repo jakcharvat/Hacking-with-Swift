@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "9ad827794bee9f52a085de6e74efd942"
+build_time: [1590747277, 544231000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/Exports.swift": [1590747225, 810633717]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLQuery.swift": [1590747225, 810837791]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLSchema.swift": [1590747225, 811104148]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1590747225, 811314790]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+Contains.swift": [1590747225, 811453399]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+JoinSupporting.swift": [1590747225, 811590736]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+QuerySupporting.swift": [1590747225, 811740465]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1590747225, 811906981]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SchemaBuilder+Field.swift": [1590747225, 812059205]

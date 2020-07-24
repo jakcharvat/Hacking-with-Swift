@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "602e4daf63d9ad095532867dbc47e2e0"
+build_time: [1590747271, 573592000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [1590747226, 825506125]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [1590747226, 825758080]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [1590747226, 825944289]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [1590747226, 826219381]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": [1590747226, 826509710]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [1590747226, 826837175]

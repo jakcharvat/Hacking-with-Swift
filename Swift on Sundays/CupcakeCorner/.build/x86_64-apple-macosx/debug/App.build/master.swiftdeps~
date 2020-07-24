@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "69fc1b642b429e7141bd5a5aa15db909"
+build_time: [1590748054, 238569000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/Sources/App/boot.swift": [1590746782, 13531918]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/Sources/App/configure.swift": [1590747475, 184674618]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/Sources/App/routes.swift": [1590747607, 803273427]

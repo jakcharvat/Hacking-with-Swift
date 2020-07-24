@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/master.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/Exports.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Client.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket+Server.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocket.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketFrameSequence.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/WebSocketHandler.swiftdeps"
+  }
+}

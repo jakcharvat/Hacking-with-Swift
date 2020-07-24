@@ -1,0 +1,91 @@
+{
+    "screens": [
+        {
+            "id": "home",
+            "title": "Home",
+            "type": "table",
+            "rows": [
+                {
+                    "title": "Show alert",
+                    "actionType": "alert",
+                    "action": {
+                        "title": "This is the first row",
+                        "message": "This is the first message"
+                    }
+                },
+                {
+                    "title": "Show website",
+                    "actionType": "showWebsite",
+                    "action": {
+                        "url": "https://hackingwithswift.com/"
+                    }
+                },
+                {
+                    "title": "Show second screen",
+                    "actionType": "showScreen",
+                    "action": {
+                        "id": "second"
+                    }
+                },
+                {
+                    "title": "Share some text",
+                    "actionType": "share",
+                    "action": {
+                        "text": "Hello, World!"
+                    }
+                },
+                {
+                    "title": "Play movie",
+                    "actionType": "playMovie",
+                    "action": {
+                        "url": "https://player.vimeo.com/external/321068858.hd.mp4?s=e2ae1cc4b993c474d1830c8dfbd4aa8335c8b562&profile_id=174"
+                    }
+                }
+            ],
+            "rightButton": {
+                "title": "About",
+                "actionType": "alert",
+                "action": {
+                    "title": "Credits",
+                    "message": "jakcharvat"
+                }
+            }
+        },
+        {
+            "id": "second",
+            "title": "Second Screen",
+            "type": "table",
+            "rightButton": {
+                "title": "Share",
+                "actionType": "share",
+                "action": {
+                    "text": "Decode UI app by jakcharvat"
+                }
+            },
+            "rows": [
+                {
+                    "title": "Second Screen First Row",
+                    "actionType": "alert",
+                    "action": {
+                        "title": "This is the first row",
+                        "message": "This is the first message"
+                    }
+                },
+                {
+                    "title": "Second Row",
+                    "actionType": "showWebsite",
+                    "action": {
+                        "url": "https://hackingwithswift.com/"
+                    }
+                },
+                {
+                    "title": "Share some URL",
+                    "actionType": "share",
+                    "action": {
+                        "url": "https://hackingwithswift.com/"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "0b39e669b809ea11cb2d9b4a89cc470d"
+build_time: [1590747240, 92261000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1590747226, 268867996]

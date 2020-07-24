@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/master.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Debugging/Debuggable.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Debuggable.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Debuggable.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Debuggable~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Debuggable.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Debugging/Demangler.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Demangler.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Demangler.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Demangler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/Demangler.swiftdeps"
+  },
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": {
+    "dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/SourceLocation.d",
+    "object": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/SourceLocation.swift.o",
+    "swiftmodule": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/SourceLocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/SourceLocation.swiftdeps"
+  }
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "33ee4a8da03c4e4d661865039c0e4f31"
+build_time: [1590747261, 612818000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Logging/Exports.swift": [1590747225, 366769158]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Logging/LogLevel.swift": [1590747225, 366934918]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Logging/Logger.swift": [1590747225, 367136973]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Logging/PrintLogger.swift": [1590747225, 367323965]

@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "a22c15ad46479a0e161400ff655d188d"
+build_time: [1590748052, 773908000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Parser/Byte+Leaf.swift": [1590748051, 793838230]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Parser/LeafParser.swift": [1590748051, 794212270]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Renderer/LeafRenderer.swift": [1590748051, 794493366]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafConfig.swift": [1590748051, 794693034]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafProvider.swift": [1590748051, 794935901]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafTagConfig.swift": [1590748051, 795115130]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Utilities/Data.swift": [1590748051, 795368278]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Utilities/Exports.swift": [1590748051, 795509723]

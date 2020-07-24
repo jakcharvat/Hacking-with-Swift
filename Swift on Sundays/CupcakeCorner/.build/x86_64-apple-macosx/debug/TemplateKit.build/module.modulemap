@@ -1,0 +1,4 @@
+module TemplateKit {
+    header "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/TemplateKit.build/TemplateKit-Swift.h"
+    requires objc
+}

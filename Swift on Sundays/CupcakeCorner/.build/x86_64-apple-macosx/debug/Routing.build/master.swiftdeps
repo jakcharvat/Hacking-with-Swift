@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "c8611e73be6bd130202e92e1782b35b5"
+build_time: [1590747266, 214779000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Parameter/Parameter.swift": [1590747223, 695544546]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Parameter/ParameterValue.swift": [1590747223, 695779771]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Parameter/Parameters.swift": [1590747223, 695998564]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Register/PathComponent.swift": [1590747223, 696380960]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Register/Route.swift": [1590747223, 696596182]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Register/RouterOption.swift": [1590747223, 696748211]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Routing/RoutableComponent.swift": [1590747223, 696965996]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Routing/RouterNode.swift": [1590747223, 697146013]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Routing/TrieRouter.swift": [1590747223, 697327541]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Utilities/Deprecated.swift": [1590747223, 697554644]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Utilities/Exports.swift": [1590747223, 697683672]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/routing/Sources/Routing/Utilities/RoutingError.swift": [1590747223, 697809245]

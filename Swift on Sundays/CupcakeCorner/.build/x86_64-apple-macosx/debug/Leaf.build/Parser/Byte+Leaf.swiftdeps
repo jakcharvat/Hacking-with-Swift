@@ -1,0 +1,318 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["s5UInt8V", ""]
+- ["s5UInt8V", "isAllowedInIdentifier"]
+- ["s5UInt8V", "isAllowedInTagName"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- "Bool"
+- "Byte"
+- !private "||"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "asterisk"]
+- !private ["s18AdditiveArithmeticP", "colon"]
+- !private ["s18AdditiveArithmeticP", "forwardSlash"]
+- !private ["s18AdditiveArithmeticP", "hyphen"]
+- !private ["s18AdditiveArithmeticP", "isAlphanumeric"]
+- !private ["s18AdditiveArithmeticP", "period"]
+- !private ["s18AdditiveArithmeticP", "underscore"]
+- !private ["4Core22AnyReflectionDecodableP", "asterisk"]
+- !private ["4Core22AnyReflectionDecodableP", "colon"]
+- !private ["4Core22AnyReflectionDecodableP", "forwardSlash"]
+- !private ["4Core22AnyReflectionDecodableP", "hyphen"]
+- !private ["4Core22AnyReflectionDecodableP", "isAlphanumeric"]
+- !private ["4Core22AnyReflectionDecodableP", "period"]
+- !private ["4Core22AnyReflectionDecodableP", "underscore"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "asterisk"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "colon"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "forwardSlash"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "hyphen"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "isAlphanumeric"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "period"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "underscore"]
+- !private ["Sz", "asterisk"]
+- !private ["Sz", "colon"]
+- !private ["Sz", "forwardSlash"]
+- !private ["Sz", "hyphen"]
+- !private ["Sz", "isAlphanumeric"]
+- !private ["Sz", "period"]
+- !private ["Sz", "underscore"]
+- !private ["s7CVarArgP", "asterisk"]
+- !private ["s7CVarArgP", "colon"]
+- !private ["s7CVarArgP", "forwardSlash"]
+- !private ["s7CVarArgP", "hyphen"]
+- !private ["s7CVarArgP", "isAlphanumeric"]
+- !private ["s7CVarArgP", "period"]
+- !private ["s7CVarArgP", "underscore"]
+- !private ["SL", "asterisk"]
+- !private ["SL", "colon"]
+- !private ["SL", "forwardSlash"]
+- !private ["SL", "hyphen"]
+- !private ["SL", "isAlphanumeric"]
+- !private ["SL", "period"]
+- !private ["SL", "underscore"]
+- !private ["s17CustomReflectableP", "asterisk"]
+- !private ["s17CustomReflectableP", "colon"]
+- !private ["s17CustomReflectableP", "forwardSlash"]
+- !private ["s17CustomReflectableP", "hyphen"]
+- !private ["s17CustomReflectableP", "isAlphanumeric"]
+- !private ["s17CustomReflectableP", "period"]
+- !private ["s17CustomReflectableP", "underscore"]
+- !private ["s23CustomStringConvertibleP", "asterisk"]
+- !private ["s23CustomStringConvertibleP", "colon"]
+- !private ["s23CustomStringConvertibleP", "forwardSlash"]
+- !private ["s23CustomStringConvertibleP", "hyphen"]
+- !private ["s23CustomStringConvertibleP", "isAlphanumeric"]
+- !private ["s23CustomStringConvertibleP", "period"]
+- !private ["s23CustomStringConvertibleP", "underscore"]
+- !private ["Se", "asterisk"]
+- !private ["Se", "colon"]
+- !private ["Se", "forwardSlash"]
+- !private ["Se", "hyphen"]
+- !private ["Se", "isAlphanumeric"]
+- !private ["Se", "period"]
+- !private ["Se", "underscore"]
+- !private ["SE", "asterisk"]
+- !private ["SE", "colon"]
+- !private ["SE", "forwardSlash"]
+- !private ["SE", "hyphen"]
+- !private ["SE", "isAlphanumeric"]
+- !private ["SE", "period"]
+- !private ["SE", "underscore"]
+- !private ["SQ", "asterisk"]
+- !private ["SQ", "colon"]
+- !private ["SQ", "forwardSlash"]
+- !private ["SQ", "hyphen"]
+- !private ["SQ", "isAlphanumeric"]
+- !private ["SQ", "period"]
+- !private ["SQ", "underscore"]
+- !private ["s27ExpressibleByIntegerLiteralP", "asterisk"]
+- !private ["s27ExpressibleByIntegerLiteralP", "colon"]
+- !private ["s27ExpressibleByIntegerLiteralP", "forwardSlash"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hyphen"]
+- !private ["s27ExpressibleByIntegerLiteralP", "isAlphanumeric"]
+- !private ["s27ExpressibleByIntegerLiteralP", "period"]
+- !private ["s27ExpressibleByIntegerLiteralP", "underscore"]
+- !private ["s17FixedWidthIntegerP", "asterisk"]
+- !private ["s17FixedWidthIntegerP", "colon"]
+- !private ["s17FixedWidthIntegerP", "forwardSlash"]
+- !private ["s17FixedWidthIntegerP", "hyphen"]
+- !private ["s17FixedWidthIntegerP", "isAlphanumeric"]
+- !private ["s17FixedWidthIntegerP", "period"]
+- !private ["s17FixedWidthIntegerP", "underscore"]
+- !private ["SH", "asterisk"]
+- !private ["SH", "colon"]
+- !private ["SH", "forwardSlash"]
+- !private ["SH", "hyphen"]
+- !private ["SH", "isAlphanumeric"]
+- !private ["SH", "period"]
+- !private ["SH", "underscore"]
+- !private ["s25LosslessStringConvertibleP", "asterisk"]
+- !private ["s25LosslessStringConvertibleP", "colon"]
+- !private ["s25LosslessStringConvertibleP", "forwardSlash"]
+- !private ["s25LosslessStringConvertibleP", "hyphen"]
+- !private ["s25LosslessStringConvertibleP", "isAlphanumeric"]
+- !private ["s25LosslessStringConvertibleP", "period"]
+- !private ["s25LosslessStringConvertibleP", "underscore"]
+- !private ["Sj", "asterisk"]
+- !private ["Sj", "colon"]
+- !private ["Sj", "forwardSlash"]
+- !private ["Sj", "hyphen"]
+- !private ["Sj", "isAlphanumeric"]
+- !private ["Sj", "period"]
+- !private ["Sj", "underscore"]
+- !private ["4Core19ReflectionDecodableP", "asterisk"]
+- !private ["4Core19ReflectionDecodableP", "colon"]
+- !private ["4Core19ReflectionDecodableP", "forwardSlash"]
+- !private ["4Core19ReflectionDecodableP", "hyphen"]
+- !private ["4Core19ReflectionDecodableP", "isAlphanumeric"]
+- !private ["4Core19ReflectionDecodableP", "period"]
+- !private ["4Core19ReflectionDecodableP", "underscore"]
+- !private ["s10SIMDScalarP", "asterisk"]
+- !private ["s10SIMDScalarP", "colon"]
+- !private ["s10SIMDScalarP", "forwardSlash"]
+- !private ["s10SIMDScalarP", "hyphen"]
+- !private ["s10SIMDScalarP", "isAlphanumeric"]
+- !private ["s10SIMDScalarP", "period"]
+- !private ["s10SIMDScalarP", "underscore"]
+- !private ["Sx", "asterisk"]
+- !private ["Sx", "colon"]
+- !private ["Sx", "forwardSlash"]
+- !private ["Sx", "hyphen"]
+- !private ["Sx", "isAlphanumeric"]
+- !private ["Sx", "period"]
+- !private ["Sx", "underscore"]
+- !private ["11TemplateKit0A17DataRepresentableP", "asterisk"]
+- !private ["11TemplateKit0A17DataRepresentableP", "colon"]
+- !private ["11TemplateKit0A17DataRepresentableP", "forwardSlash"]
+- !private ["11TemplateKit0A17DataRepresentableP", "hyphen"]
+- !private ["11TemplateKit0A17DataRepresentableP", "isAlphanumeric"]
+- !private ["11TemplateKit0A17DataRepresentableP", "period"]
+- !private ["11TemplateKit0A17DataRepresentableP", "underscore"]
+- ["s5UInt8V", "Bool"]
+- !private ["s5UInt8V", "asterisk"]
+- !private ["s5UInt8V", "colon"]
+- !private ["s5UInt8V", "forwardSlash"]
+- !private ["s5UInt8V", "hyphen"]
+- ["s5UInt8V", "isAllowedInIdentifier"]
+- ["s5UInt8V", "isAllowedInTagName"]
+- !private ["s5UInt8V", "isAlphanumeric"]
+- !private ["s5UInt8V", "period"]
+- !private ["s5UInt8V", "underscore"]
+- !private ["SU", "asterisk"]
+- !private ["SU", "colon"]
+- !private ["SU", "forwardSlash"]
+- !private ["SU", "hyphen"]
+- !private ["SU", "isAlphanumeric"]
+- !private ["SU", "period"]
+- !private ["SU", "underscore"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "asterisk"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "colon"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "forwardSlash"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hyphen"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isAlphanumeric"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "period"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "underscore"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "asterisk"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "colon"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "forwardSlash"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hyphen"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "isAlphanumeric"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "period"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "underscore"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "asterisk"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "colon"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forwardSlash"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hyphen"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isAlphanumeric"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "period"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "underscore"]
+- !private ["s21_ObjectiveCBridgeableP", "asterisk"]
+- !private ["s21_ObjectiveCBridgeableP", "colon"]
+- !private ["s21_ObjectiveCBridgeableP", "forwardSlash"]
+- !private ["s21_ObjectiveCBridgeableP", "hyphen"]
+- !private ["s21_ObjectiveCBridgeableP", "isAlphanumeric"]
+- !private ["s21_ObjectiveCBridgeableP", "period"]
+- !private ["s21_ObjectiveCBridgeableP", "underscore"]
+- !private ["s14_StringElementP", "asterisk"]
+- !private ["s14_StringElementP", "colon"]
+- !private ["s14_StringElementP", "forwardSlash"]
+- !private ["s14_StringElementP", "hyphen"]
+- !private ["s14_StringElementP", "isAlphanumeric"]
+- !private ["s14_StringElementP", "period"]
+- !private ["s14_StringElementP", "underscore"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "SL"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "Sj"
+- !private "4Core19ReflectionDecodableP"
+- !private "s10SIMDScalarP"
+- !private "Sx"
+- !private "11TemplateKit0A17DataRepresentableP"
+- "s5UInt8V"
+- !private "SU"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/TemplateKit.swiftmodule"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOHTTP1.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/SQL.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/FluentSQL.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIO.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/HTTP.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOTLS.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Async.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Command.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Service.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Console.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Core.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/SQLite.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/FluentSQLite.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOPriorityQueue.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Leaf.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Logging.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Routing.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/SQLBenchmark.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/FluentBenchmark.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/COperatingSystem.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Random.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/URLEncodedForm.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Validation.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Crypto.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/App.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Vapor.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Bits.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/WebSocket.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOWebSocket.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/DatabaseKit.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/TemplateKit.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Fluent.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/Multipart.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e1629d3e6338ba267106571d3120367f"

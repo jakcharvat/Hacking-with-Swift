@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "786e82088832c1ed5441ca4518c91199"
+build_time: [1590747261, 614928000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Exports.swift": [1590747225, 550900354]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1590747225, 551055980]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1590747225, 551198097]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validations.swift": [1590747225, 551360976]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validator.swift": [1590747225, 551540330]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1590747225, 551777287]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1590747225, 552123214]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1590747225, 552301572]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1590747225, 552563537]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1590747225, 552739496]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1590747225, 552874340]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1590747225, 553019703]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1590747225, 553152843]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1590747225, 553313013]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1590747225, 553480846]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1590747225, 553640836]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1590747225, 553791044]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1590747225, 553960628]

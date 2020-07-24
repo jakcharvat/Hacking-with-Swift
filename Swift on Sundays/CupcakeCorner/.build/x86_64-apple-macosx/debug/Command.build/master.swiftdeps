@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "af8c92b5bcfd53b089f087031707069c"
+build_time: [1590747272, 458629000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1590747225, 353682576]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1590747225, 353977709]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Command/Command.swift": [1590747225, 354447966]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1590747225, 354882171]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1590747225, 355333301]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1590747225, 355735064]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1590747225, 356208299]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1590747225, 356450827]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1590747225, 356716961]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1590747225, 356982407]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1590747225, 357244164]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1590747225, 357527335]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1590747225, 357855133]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1590747225, 358370918]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1590747225, 358620324]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1590747225, 358836301]

@@ -1,0 +1,4 @@
+module COperatingSystem {
+    header "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/x86_64-apple-macosx/debug/COperatingSystem.build/COperatingSystem-Swift.h"
+    requires objc
+}

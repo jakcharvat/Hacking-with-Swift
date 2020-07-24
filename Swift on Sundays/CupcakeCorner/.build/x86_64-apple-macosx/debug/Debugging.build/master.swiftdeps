@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "7f212f61984fae8fa9f0b25eb40cc1d6"
+build_time: [1590747239, 244970000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1590747226, 275629285]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1590747226, 275866908]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1590747226, 276087864]

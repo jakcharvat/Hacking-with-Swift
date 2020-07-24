@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Fvi-0X-1KH">
+    <device id="retina5_9" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--What's that Whistle?-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kEK-sx-Fsn">
+                                <rect key="frame" x="0.0" y="140" width="375" height="638"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" image="Image" translatesAutoresizingMaskIntoConstraints="NO" id="kZe-Ja-dpD">
+                                        <rect key="frame" x="0.0" y="188" width="375" height="262"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="kZe-Ja-dpD" secondAttribute="height" multiplier="1033:722" id="jkp-ke-j2a"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <constraints>
+                                    <constraint firstItem="kZe-Ja-dpD" firstAttribute="centerX" secondItem="kEK-sx-Fsn" secondAttribute="centerX" id="IHB-Gm-ikn"/>
+                                    <constraint firstItem="kZe-Ja-dpD" firstAttribute="centerY" secondItem="kEK-sx-Fsn" secondAttribute="centerY" id="XQr-ux-eUi"/>
+                                    <constraint firstItem="kZe-Ja-dpD" firstAttribute="width" secondItem="kEK-sx-Fsn" secondAttribute="width" priority="900" id="dQ6-WH-b7q"/>
+                                    <constraint firstItem="kZe-Ja-dpD" firstAttribute="height" secondItem="kEK-sx-Fsn" secondAttribute="height" priority="900" id="kfV-ez-pVG"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="kEK-sx-Fsn" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Hm5-T8-c9b"/>
+                            <constraint firstItem="kEK-sx-Fsn" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="IeH-qu-uny"/>
+                            <constraint firstItem="kEK-sx-Fsn" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="flP-7l-5Ll"/>
+                            <constraint firstItem="kEK-sx-Fsn" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="zyi-Zl-pg5"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="What's that Whistle?" id="9QI-4i-X2E"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="962.31884057971024" y="375"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="kPh-in-SKu">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Fvi-0X-1KH" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="dA6-mP-Jwh">
+                        <rect key="frame" x="0.0" y="44" width="375" height="96"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="01J-lp-oVM" kind="relationship" relationship="rootViewController" id="EES-R8-d51"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QuU-9W-JlA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Image" width="1033" height="722"/>
+    </resources>
+</document>

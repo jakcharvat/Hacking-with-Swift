@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "f5fd3273e7d321c2cf4d0a4b9aa5c9c9"
+build_time: [1590747256, 504687000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Random/Array+Random.swift": [1590747227, 86925092]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Random/OSRandom.swift": [1590747227, 87081611]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": [1590747227, 87228790]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/crypto/Sources/Random/URandom.swift": [1590747227, 87387259]

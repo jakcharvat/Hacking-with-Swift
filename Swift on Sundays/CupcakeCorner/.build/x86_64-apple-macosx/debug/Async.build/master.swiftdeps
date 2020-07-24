@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "b0e2a662fac929bd465890803dd2fbdf"
+build_time: [1590747253, 902582000]
+inputs:
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1590747226, 260855900]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/AsyncError.swift": [1590747226, 261172507]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1590747226, 261471160]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Deprecated.swift": [1590747226, 261692527]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Exports.swift": [1590747226, 261881845]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1590747226, 262175213]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1590747226, 262593863]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Global.swift": [1590747226, 262941493]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Map.swift": [1590747226, 314617556]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1590747226, 263565702]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1590747226, 263890854]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Void.swift": [1590747226, 264232979]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/FutureType.swift": [1590747226, 264581698]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1590747226, 265019294]
+  "/Users/jakcharvat/Desktop/Hacking With Swift/Swift on Sundays/CupcakeCorner/.build/checkouts/core/Sources/Async/Worker.swift": [1590747226, 265360477]
